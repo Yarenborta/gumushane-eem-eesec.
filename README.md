@@ -5,3 +5,5 @@ Artificial neural networks (ANN) are extremely powerful structures that are capa
 
 A. Multi-layer Perceptron (MLP)
 We will study MLP elaborately throughout the course. Regression and classification examples, both supervised learning. Please see Fig. 1 for an example MLP network structure.
+![Error back-propogation algorithm (e g , Gradient Descent) is used to update the network parameters](https://user-images.githubusercontent.com/53098018/122465401-ba3a8580-cfc0-11eb-81ec-5d5c8ee5f656.jpg)
+doing something
