@@ -7,9 +7,10 @@ Artificial neural networks (ANN) are extremely powerful structures that are capa
 **A. Multi-layer Perceptron (MLP)**
 
 We will study MLP elaborately throughout the course. Regression and classification examples, both supervised learning. Please see Fig. 1 for an example MLP network structure.
-![A multi input single output MLP](https://user-images.githubusercontent.com/53098018/122468610-9b3df280-cfc4-11eb-914c-90924a9ee335.png)
-Fig. 1 : A multi input single output MLP.
 
+![A multi input single output MLP](https://user-images.githubusercontent.com/53098018/122469761-fb816400-cfc5-11eb-876d-3af765f73169.png)
+
+Fig. 1: A multi input single output MLP.
 
 **Exclusive OR (XOR) Problem**
 ![A MLP network is going to learn XOR problem](https://user-images.githubusercontent.com/53098018/122469163-4babf680-cfc5-11eb-86a0-534f9aef5e9b.jpg)
