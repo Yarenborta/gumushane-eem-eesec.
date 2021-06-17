@@ -39,11 +39,11 @@ Fig. 5'de verilen 2 : 3 : 1 konfigürasyonlu ağı formülde test edecek olursak
 
 **2 Boyutlu Sınıflandırma Problemi**
 ![Derste işlediğimiz 2 boyutlu sınıflandırma probleminde en başta karşılaştığımız bazı adımlar](https://user-images.githubusercontent.com/53098018/122469353-86159380-cfc5-11eb-9ec1-92afdc84ff88.jpg)
-Fig. 6: Derste işlediğimiz 2 boyutlu sınıflandırma probleminde en başta karşılaştığımız bazı adımlar.
+Fig. 6:  2 boyutlu sınıflandırma probleminde en başta karşılaşılan bazı adımlar.
 
 **En Küçük Kareler (Least Squares)**
 ![Derste işlediğimiz bir boyutlu optimizasyon (veya regresyon) probleminin görselleştirilmiş hali](https://user-images.githubusercontent.com/53098018/122469391-93328280-cfc5-11eb-8e56-4cb25022fbc8.png)
-Fig. 7: Derste işlenilen bir boyutlu optimizasyon (veya regresyon) probleminin görselleştirilmiş hali.
+Fig. 7:  Bir boyutlu optimizasyon (veya regresyon) probleminin görselleştirilmiş hali.
 
 **B. Convolutional Neural Network (CNN)**
 We might study classification example on images in the last weeks of the course. Cats-dogs image repository on Kaggle. We will follow the tutorial given in [2]. Please see Figures 8 and 9 for classification of cat and dog images via CNN.
